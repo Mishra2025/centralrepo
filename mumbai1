@@ -1,2 +1,4 @@
-How to commit git in AWS
-There are three diffrent methods available in git.
+There are three stage of git.
+1- Local Repository
+2- Staging Repository
+3- Central Repository
